@@ -20,14 +20,14 @@ Portions Copyright (c) 2019-2099 The Cryptonote developers.
   - [Contributing](#contributing)
   - [Scheduled software upgrades](#scheduled-software-upgrades)
   - [Release staging schedule and protocol](#release-staging-schedule-and-protocol)
-  - [Compiling Monero from source](#compiling-monero-from-source)
+  - [Compiling Monero from source](#compiling-uhome-from-source)
     - [Dependencies](#dependencies)
   - [Known issues](#known-issues)
 
 ## Development resources
 
-- Web: [getmonero.org](https://getmonero.org)
-- Forum: [forum.getmonero.org](https://forum.getmonero.org)
+- Web: [https://github.com/UHOME-U/UHOME](https://github.com/UHOME-U/UHOME)
+- Forum: [forum.getmonero.org](https://github.com/UHOME-U/UHOME)
 - Mail: [dev@getmonero.org](mailto:dev@getmonero.org)
 - GitHub: [https://github.com/monero-project/monero](https://github.com/monero-project/monero)
 - IRC: [#monero-dev on Freenode](https://webchat.freenode.net/?randomnick=1&channels=%23monero-dev&prompt=1&uio=d4)
