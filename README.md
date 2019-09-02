@@ -91,26 +91,26 @@ UHOME is a private, secure, untraceable, decentralised digital currency. You are
 
 **Untraceability:** By taking advantage of ring signatures, a special property of a certain type of cryptography, UHOME is able to ensure that transactions are not only untraceable, but have an optional measure of ambiguity that ensures that transactions cannot easily be tied back to an individual user or computer.
 
-**Decentralization:** The utility of UHOME depends on its decentralised peer-to-peer consensus network - anyone should be able to run the UHOME software, validate the integrity of the blockchain, and participate in all aspects of the monero network using consumer-grade commodity hardware. Decentralization of the UHOME network is maintained by software development that minimizes the costs of running the UHOME software and inhibits the proliferation of specialized, non-commodity hardware.  
+**Decentralization:** The utility of UHOME depends on its decentralised peer-to-peer consensus network - anyone should be able to run the UHOME software, validate the integrity of the blockchain, and participate in all aspects of the UHOME network using consumer-grade commodity hardware. Decentralization of the UHOME network is maintained by software development that minimizes the costs of running the UHOME software and inhibits the proliferation of specialized, non-commodity hardware.  
 
 ## About this project
 
-This is the core implementation of UHOME. It is open source and completely free to use without restrictions, except for those specified in the license agreement below. There are no restrictions on anyone creating an alternative implementation of Monero that uses the protocol and network in a compatible manner.
+This is the core implementation of UHOME. It is open source and completely free to use without restrictions, except for those specified in the license agreement below. There are no restrictions on anyone creating an alternative implementation of UHOME that uses the protocol and network in a compatible manner.
 
 As with many development projects, the repository on Github is considered to be the "staging" area for the latest changes. Before changes are merged into that branch on the main repository, they are tested by individual developers in their own branches, submitted as a pull request, and then subsequently tested by contributors who focus on testing and code reviews. That having been said, the repository should be carefully considered before using it in a production environment, unless there is a patch in the repository for a particular show-stopping issue you are experiencing. It is generally a better idea to use a tagged release for stability.
 
-**Anyone is welcome to contribute to Monero's codebase!** If you have a fix or code change, feel free to submit it as a pull request directly to the "master" branch. In cases where the change is relatively small or does not affect other parts of the codebase it may be merged in immediately by any one of the collaborators. On the other hand, if the change is particularly large or complex, it is expected that it will be discussed at length either well in advance of the pull request being submitted, or even directly on the pull request.
+**Anyone is welcome to contribute to UHOME's codebase!** If you have a fix or code change, feel free to submit it as a pull request directly to the "master" branch. In cases where the change is relatively small or does not affect other parts of the codebase it may be merged in immediately by any one of the collaborators. On the other hand, if the change is particularly large or complex, it is expected that it will be discussed at length either well in advance of the pull request being submitted, or even directly on the pull request.
 
 ## Supporting the project
 
-UHOME is a 100% community-sponsored endeavor. If you want to join our efforts, the easiest thing you can do is support the project financially. Both Monero and Bitcoin donations can be made to **donate.getmonero.org** if using a client that supports the [OpenAlias](https://openalias.org) standard. Alternatively you can send XMR to the Monero donation address via the `donate` command (type `help` in the command-line wallet for details).
+UHOME is a 100% community-sponsored endeavor. If you want to join our efforts, the easiest thing you can do is support the project financially. Both UHOME and Bitcoin donations can be made to **donate.UHOME.org** if using a client that supports the [OpenAlias](https://openalias.org) standard. Alternatively you can send XMR to the UHOME donation address via the `donate` command (type `help` in the command-line wallet for details).
 
 
 Core development funding and/or some supporting services are also graciously provided by sponsors:
 
-[<img width="80" src="https://static.getmonero.org/images/sponsors/mymonero.png"/>](https://mymonero.com)
-[<img width="150" src="https://static.getmonero.org/images/sponsors/kitware.png?1"/>](https://kitware.com)
-[<img width="100" src="https://static.getmonero.org/images/sponsors/dome9.png"/>](https://dome9.com)
+[<img width="80" src="https://static.UHOME.org/images/sponsors/myUHOME.png"/>](https://mymonero.com)
+[<img width="150" src="https://static.UHOME.org/images/sponsors/kitware.png?1"/>](https://kitware.com)
+[<img width="100" src="https://static.UHOME.org/images/sponsors/dome9.png"/>](https://dome9.com)
 [<img width="150" src="https://static.getmonero.org/images/sponsors/araxis.png"/>](https://araxis.com)
 [<img width="150" src="https://static.getmonero.org/images/sponsors/jetbrains.png"/>](https://www.jetbrains.com/)
 [<img width="150" src="https://static.getmonero.org/images/sponsors/navicat.png"/>](https://www.navicat.com/)
@@ -128,11 +128,11 @@ If you want to help out, see [CONTRIBUTING](CONTRIBUTING.md) for a set of guidel
 
 ## Scheduled software upgrades
 
-Monero uses a fixed-schedule software upgrade (hard fork) mechanism to implement new features. This means that users of Monero (end users and service providers) should run current versions and upgrade their software on a regular schedule. Software upgrades occur during the months of April and October. The required software for these upgrades will be available prior to the scheduled date. Please check the repository prior to this date for the proper Monero software version. Below is the historical schedule and the projected schedule for the next upgrade.
+UHOME uses a fixed-schedule software upgrade (hard fork) mechanism to implement new features. This means that users of UHOME (end users and service providers) should run current versions and upgrade their software on a regular schedule. Software upgrades occur during the months of April and October. The required software for these upgrades will be available prior to the scheduled date. Please check the repository prior to this date for the proper UHOME software version. Below is the historical schedule and the projected schedule for the next upgrade.
 Dates are provided in the format YYYY-MM-DD.
 
 
-| Software upgrade block height  | Date       | Fork version      | Minimum Monero version | Recommended Monero version | Details                                                                            |  
+| Software upgrade block height  | Date       | Fork version      | Minimum UHOME version | Recommended MUHOME version | Details                                                                            |  
 | ------------------------------ | -----------| ----------------- | ---------------------- | -------------------------- | ---------------------------------------------------------------------------------- |
 | 1009827                        | 2019-03-22 | v2                | v0.9.4                 | v0.9.4                     | Allow only >= ringsize 3, blocktime = 120 seconds, fee-free blocksize 60 kb       |
 | 1141317                        | 2019-09-21 | v3                | v0.9.4                 | v0.10.0                    | Splits coinbase into denominations  |
