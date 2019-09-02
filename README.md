@@ -28,27 +28,24 @@ Portions Copyright (c) 2019-2099 The Cryptonote developers.
 
 - Web: [https://github.com/UHOME-U/UHOME](https://github.com/UHOME-U/UHOME)
 - Forum: [forum.getmonero.org](https://github.com/UHOME-U/UHOME)
-- Mail: [dev@getmonero.org](mailto:dev@getmonero.org)
-- GitHub: [https://github.com/monero-project/monero](https://github.com/monero-project/monero)
-- IRC: [#monero-dev on Freenode](https://webchat.freenode.net/?randomnick=1&channels=%23monero-dev&prompt=1&uio=d4)
+- GitHub: [https://github.com/UHOME-U/UHOME](https://github.com/UHOME-U/UHOME)
+- IRC: [https://github.com/UHOME-U/UHOME](https://webchat.freenode.net/?randomnick=1&channels=%23uhome-dev&prompt=1&uio=d4)
 
 ## Vulnerability response
 
-- Our [Vulnerability Response Process](https://github.com/monero-project/meta/blob/master/VULNERABILITY_RESPONSE_PROCESS.md) encourages responsible disclosure
-- We are also available via [HackerOne](https://hackerone.com/monero)
+- Our [Vulnerability Response Process](https://github.com/UHOME-U/UHOME) encourages responsible disclosure
+- We are also available via [HackerOne](https://hackerone.com/uhome)
 
 ## Research
 
-The [Monero Research Lab](https://src.getmonero.org/resources/research-lab/) is an open forum where the community coordinates research into Monero cryptography, protocols, fungibility, analysis, and more. We welcome collaboration and contributions from outside researchers! Because not all Lab work and publications are distributed as traditional preprints or articles, they may be easy to miss if you are conducting literature reviews for your own Monero research. You are encouraged to get in touch with our researchers if you have questions, wish to collaborate, or would like guidance to help avoid unnecessarily duplicating earlier or known work.
+The [UHOME Research Lab](https://github.com/UHOME-U/UHOME) is an open forum where the community coordinates research into Monero cryptography, protocols, fungibility, analysis, and more. We welcome collaboration and contributions from outside researchers! Because not all Lab work and publications are distributed as traditional preprints or articles, they may be easy to miss if you are conducting literature reviews for your own Monero research. You are encouraged to get in touch with our researchers if you have questions, wish to collaborate, or would like guidance to help avoid unnecessarily duplicating earlier or known work.
 
-Our researchers are available on IRC in [#monero-research-lab on Freenode](https://webchat.freenode.net/?randomnick=1&channels=%23monero-research-lab&prompt=1&uio=d4) or by email:
+Our researchers are available on IRC in [#uhome-research-lab on Freenode](https://webchat.freenode.net/?randomnick=1&channels=%23monero-research-lab&prompt=1&uio=d4) or by email:
 
-- Sarang Noether, Ph.D.: [sarang@getmonero.org](mailto:sarang@getmonero.org) or [sarang.noether@protonmail.com](mailto:sarang.noether@protonmail.com); [research repository](https://github.com/SarangNoether/research-lab)
-- Surae Noether (Brandon Goodell), Ph.D.: [surae@getmonero.org](mailto:surae@getmonero.org) or [surae.noether@protonmail.com](mailto:surae.noether@protonmail.com); [research repository](https://github.com/b-g-goodell/research-lab)
 
 ## Announcements
 
-- You can subscribe to an [announcement listserv](https://lists.getmonero.org) to get critical announcements from the Monero core team. The announcement list can be very helpful for knowing when software updates are needed.
+- You can subscribe to an [announcement listserv](https://github.com/UHOME-U/UHOME) to get critical announcements from the Monero core team. The announcement list can be very helpful for knowing when software updates are needed.
 
 ## Translations
 The CLI wallet is available in different languages. If you want to help translate it, see our self-hosted localization platform, Pootle, on [translate.getmonero.org](https://translate.getmonero.org/projects/CLI/). Every translation *must* be uploaded on the platform, pull requests directly editing the code in this repository will be closed. If you need help with Pootle, you can find a guide with screenshots [here](https://github.com/monero-ecosystem/monero-translations/blob/master/pootle.md).
