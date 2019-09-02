@@ -20,7 +20,7 @@ Portions Copyright (c) 2019-2099 The Cryptonote developers.
   - [Contributing](#contributing)
   - [Scheduled software upgrades](#scheduled-software-upgrades)
   - [Release staging schedule and protocol](#release-staging-schedule-and-protocol)
-  - [Compiling Monero from source](#compiling-uhome-from-source)
+  - [Compiling UHOME from source](#compiling-uhome-from-source)
     - [Dependencies](#dependencies)
   - [Known issues](#known-issues)
 
@@ -38,14 +38,14 @@ Portions Copyright (c) 2019-2099 The Cryptonote developers.
 
 ## Research
 
-The [UHOME Research Lab](https://github.com/UHOME-U/UHOME) is an open forum where the community coordinates research into Monero cryptography, protocols, fungibility, analysis, and more. We welcome collaboration and contributions from outside researchers! Because not all Lab work and publications are distributed as traditional preprints or articles, they may be easy to miss if you are conducting literature reviews for your own Monero research. You are encouraged to get in touch with our researchers if you have questions, wish to collaborate, or would like guidance to help avoid unnecessarily duplicating earlier or known work.
+The [UHOME Research Lab](https://github.com/UHOME-U/UHOME) is an open forum where the community coordinates research into UHOME cryptography, protocols, fungibility, analysis, and more. We welcome collaboration and contributions from outside researchers! Because not all Lab work and publications are distributed as traditional preprints or articles, they may be easy to miss if you are conducting literature reviews for your ownUHOME research. You are encouraged to get in touch with our researchers if you have questions, wish to collaborate, or would like guidance to help avoid unnecessarily duplicating earlier or known work.
 
-Our researchers are available on IRC in [#uhome-research-lab on Freenode](https://webchat.freenode.net/?randomnick=1&channels=%23monero-research-lab&prompt=1&uio=d4) or by email:
+Our researchers are available on IRC in [#uhome-research-lab on Freenode](https://webchat.freenode.net/?randomnick=1&channels=%23UHOME-research-lab&prompt=1&uio=d4) or by email:
 
 
 ## Announcements
 
-- You can subscribe to an [announcement listserv](https://github.com/UHOME-U/UHOME) to get critical announcements from the Monero core team. The announcement list can be very helpful for knowing when software updates are needed.
+- You can subscribe to an [announcement listserv](https://github.com/UHOME-U/UHOME) to get critical announcements from the UHOME core team. The announcement list can be very helpful for knowing when software updates are needed.
 
 ## Translations
 The CLI wallet is available in different languages. If you want to help translate it, see our self-hosted localization platform, Pootle, on [translate.uhome.org](https://github.com/UHOME-U/UHOME). Every translation *must* be uploaded on the platform, pull requests directly editing the code in this repository will be closed. If you need help with Pootle, you can find a guide with screenshots [here](https://github.com/UHOME-U/UHOME).
