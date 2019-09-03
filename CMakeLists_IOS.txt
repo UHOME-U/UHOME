@@ -3,6 +3,7 @@
 # It has been altered for Monero iOS development
 #
 #
+#
 # Options:
 #
 # IOS_PLATFORM = OS (default) or SIMULATOR or SIMULATOR64
