@@ -26,10 +26,11 @@ Portions Copyright (c) 2019-2099 The Cryptonote developers.
 
 ## Development resources
 
-- Web: [https://github.com/UHOME-U/UHOME](https://github.com/UHOME-U/UHOME)
-- Forum: [forum.UHOME.org](https://github.com/UHOME-U/UHOME)
+- 下载网址: [https://www.uhome.ink/links/ykl/](https://www.uhome.ink/links/ykl/)
+- 宣传片: [https://www.uhome.ink/uhome/UHOME_TEAM.mp4](https://www.uhome.ink/uhome/UHOME_TEAM.mp4)
 - GitHub: [https://github.com/UHOME-U/UHOME](https://github.com/UHOME-U/UHOME)
-- IRC: [https://github.com/UHOME-U/UHOME](https://webchat.freenode.net/?randomnick=1&channels=%23uhome-dev&prompt=1&uio=d4)
+- 白皮书: [https://www.uhome.ink/uhome/UHOME白皮书.pdf](https://www.uhome.ink/uhome/UHOME白皮书.pdf)
+- 说明书: [https://www.uhome.ink/uhome/UHOME说明书.pdf](https://www.uhome.ink/uhome/UHOME说明书.pdf)
 
 ## Vulnerability response
 
